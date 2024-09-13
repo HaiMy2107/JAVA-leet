@@ -1,5 +1,3 @@
-
-
 public class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
         
